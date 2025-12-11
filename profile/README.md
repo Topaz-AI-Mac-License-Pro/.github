@@ -1,6 +1,6 @@
 # Topaz AI - AI-Powered Image Enhancement Suite
 
-<img src="https://cdn.prod.website-files.com/6005fac27a49a9cd477afb63/65a5c6c9ce1e7fc829402df0_gp-logo.png" width="200" alt="App icon" align="left"/>
+<img src="https://i0.wp.com/byjessicala.com/wp-content/uploads/2023/05/Screenshot-2023-05-05-at-6.30.49-pm.png" width="200" alt="App icon" align="left"/>
 
 <div>
 <h3>Topaz AI for macOS</h3>
@@ -19,7 +19,7 @@
 <a href="#"><img src="https://img.shields.io/badge/license-Pro%20License-lightgrey?style=flat" alt="license"/></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
-<img src="https://i0.wp.com/byjessicala.com/wp-content/uploads/2023/05/Screenshot-2023-05-05-at-6.30.49-pm.png" width="824" alt="Screenshot"/>
+<img src="https://mac-cdn.softpedia.com/screenshots/Topaz-Photo-AI_1.jpg" width="824" alt="Screenshot"/>
 
 </div>
 
